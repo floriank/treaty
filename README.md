@@ -5,9 +5,7 @@ A gem to use pact-verifier via FFI in order to support the latest pact features.
 Should be a replacement for `pact-ruby`, but most likely is very much incompatible
 due to large specification differences.
 
-:> [!WARNING]
-> Only CRuby is supported!
-
+:warning: This is just me hacking around with `ffi` and the pact verifier. Do not use this project.
 ## Installation
 
 Install the gem and add to the application's Gemfile by executing:
